@@ -1,5 +1,5 @@
 ---
-layout: Rajeev Tours and Travels
+layout: default
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
@@ -10,15 +10,15 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Goal of the company
 
 Travel Agencies that give you wide variety of options to choose among cars, tempos and buses
 
-## Header 2
+## what we service
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> Cars
+> Buses - 20 seater
+> Buses - 32 seater
 
 ### Header 3
 
